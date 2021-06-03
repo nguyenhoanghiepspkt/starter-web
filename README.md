@@ -11,3 +11,5 @@ Staged area
 
 ## 4
 Unstage area (working copy)
+
+2014 Git.training
