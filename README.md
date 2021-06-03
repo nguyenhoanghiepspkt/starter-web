@@ -13,3 +13,5 @@ Staged area
 Unstage area (working copy)
 
 copyright 2014 Git.training
+
+Adding text before merge
