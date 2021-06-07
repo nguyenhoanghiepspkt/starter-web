@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Hiep -- Embedded engineer
+    Hiepp -- Embedded engineer
 
 # THANKS
 
