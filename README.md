@@ -3,6 +3,7 @@
 ## 1
 Push to original master
 Adding a line for rebase
+More change from myfeature branch
 
 ## 2
 Commit to local Repository
