@@ -19,3 +19,5 @@ copyright 2014 Git.training
 Adding text before merge
 
 Check difftool
+
+For stash
