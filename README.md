@@ -21,3 +21,5 @@ Adding text before merge
 Check difftool
 
 For stash
+
+For comment multi line
