@@ -22,4 +22,4 @@ Check difftool
 
 For stash
 
-For comment multi line
+For comment multi line npp
